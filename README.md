@@ -1,3 +1,4 @@
+# Sentiment Analysis of a Restaurant
 Restaurants have the opportunity to attract a growing number of clients thanks to their online presence.
 Restaurants today want to know what customers think of their cuisine and service. 
 They find it useful to know what patrons think about their eatery. Restaurants are able to examine data and quantify client feedback. Sentiment analysis can be used to accurately quantify this information.
